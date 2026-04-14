@@ -24,7 +24,7 @@ I will be presenting my work at **PyCon US** this May as a speaker, where I’ll
 
 ## 🚀 What I'm building right now
 
-### 🧠 Data Scientist Intern @ WorldLink
+### 🧠 AI Engineer @ WorldLink
 - Architecting an LLM-powered extraction engine transforming 40+ regulatory frameworks into structured databases  
 - Building a **Policy Alignment Engine** that compares internal policies with regulatory requirements to identify gaps and ensure continuous compliance  
 - Designing an AI Copilot that enables teams to query, interpret, and act on policy data with minimal technical effort  
